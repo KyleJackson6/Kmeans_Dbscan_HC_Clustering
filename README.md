@@ -32,7 +32,7 @@ pip install -r requirements.txt
 uvicorn main:app --reload
 ```
 
-This will start the server at `http://127.0.0.1:8000`.
+This will start the server at `http://127.0.0.1:8000`. Then open link `http://127.0.0.1:8000/docs`
 
 ## 📫 API Endpoints
 
